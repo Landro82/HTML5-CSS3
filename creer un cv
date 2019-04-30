@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title> CV</title>
+	</head>
+	<body>
+		<h1>Landro Wal</h1>
+		<h5>young Profesionel, Electroingenieur </h5>
+		<p>
+   
+    	<a href="../Website/antoine.jpg"><img src="../Website/antoine_mini.jpg" alt="Photo pour postuler" title="Cliquer pour agrandir"/></a>
+		</p>
+		<h2>Mon Experience</h2>
+		<ul>
+			<li>
+				De 2013 á 2015: Repetiteur en mathématique. 
+			</li>
+			<li>
+				De 2016 á 2017: Electroinstalateur chez Massong GmbH.
+			</li>
+			<li>
+				De 2017 á aujourd'hui: IT-Consultant chez Master Training.
+			</li>
+		</ul>
+		<h2>Mes compétences</h2>
+		<ul>
+			<li>ISTQB certificat</li>
+			<li>Jira</li>
+			<li>HTML5 et CSS3</li>
+			<li>Javascript</li>
+		</ul>
+	
+		<h2>Ma Formation</h2>
+		
+		<ul>
+			<li>De 2012 á 2015: Master électrotechnique á l'université de Paderborn</li>
+			<li>De 2015 á 2016: Formation SAP ERP10 á l'université de Duisburg-Essen</li>
+			<li>De 2018 á  aujourd'hui: Formation en tant que web-devéloppeur sur openclassrooms</li>
+			
+		</ul>
+		
+		<h2>Hobbies</h2>
+		<ul>
+			<li>Voyagé en train</li>
+			<li>cuisiner des mets traditionels</li>
+			<li> faire du jooging</li>
+		</ul>
+	
+
+	</body>
+</html>	
