@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title> introdution to Bleutooth Low Energy</title>
+	</head>
+	<body>
+		<h1>Welcom to Master Training! </h1>
+
+		<p>Hello,
+		Welcom to Master Training! <br/>
+		This is my first website, I'm learning little by little how it works.
+		</p> <br/>
+		<p>For now it's a little empty, but come back in 2-3 days when I learned a few more things, I assure you that you will be surprised!</p>
+
+		<p><citation auteur="Neil Armstrong" date="21/07/1969">
+		It's a small step for man, but a giant leap for humanity.
+		</citation></p>
+		<!-- Ceci est une citation de Neil Armstrong -->
+		<h2> What is Bleutooth?</h2>
+		<p><em>Bluetooth</em> is a wireless technology standard for exchanging data between fixed and mobile devices over short distances using short-wavelength UHF radio waves in the industrial, scientific and <strong>medical radio bands</strong>, from <mark>2.400 to 2.485 GHz</mark>, and building personal area networks (PANs).</p>
+		<p>Bonjour. Vous souhaitez visiter <a href="https://openclassrooms.com" title="Vous ne le regretterez pas!" target="_blank">OpenClassrooms</a> ?<br />
+		C'est un bon site ;o)</p>
+
+		<!-- Aller á un autre site web -->
+		<!-- title= permet d'augmenter une info bull -->
+		<!-- target="_blank" permet d'ouvrir une nvelle fenetre -->
+		<h2> What the difference betwenn Bleutooth classic and Bleutooth low Energy?</h2>
+		<ul>
+			<li>Bluetooth v1.1</li>
+			<li>Bluetooth v1.2</li>
+			<li>Bleutooth classic<ul>
+				<li>Bluetooth v2.0</li>
+			</ul></li>
+		</ul>
+		<ol>
+			<li>Bleutooth v4.0</li>
+			<li>Bluetooth Low Energy<ol>
+				<li>Bluetooth v4.1</li>
+				<li>Bluetooth v4.2</li>
+				<li>Bluetooth v4.2</li>
+			</ol></li>
+		</ol>
+		<p>Bonjour. Souhaitez-vous consulter <a href="contenu/page2.html">la page 2</a> ?</p>
+		<!-- Aller á la deuxieme page de votre site web -->
+		<p><a href="mailto:votrenom@bidule.com">Envoyez-moi un e-mail !</a></p>
+		<!-- mailot Pour envoyer un e-mail au proprietaire du site -->
+		<p><a href="monfichier.pdf">Télécharger le fichier</a></p>
+		<!-- telecharger un fichier -->
+		<p>
+    Voici une photo que j'ai prise lors de mes dernières vacances à la montagne :<br />
+    <img src="Bilder/eigene_aufnahmen/mon_image.jpeg" alt="Photo de Whatapps" />
+</p>
+	</body>
+</html>	
