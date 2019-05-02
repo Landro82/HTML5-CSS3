@@ -1,0 +1,56 @@
+/***************************************************************Cupcake in css******************************************************/
+/* Feuille de styles CSS */
+.Titre
+{
+  color: red;
+  font-size: 2em;
+}
+figure /*Center the figure*/
+{
+    background-image: url("cupcake.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+/*Inserer les bordure*/
+ul
+{
+  border: 3px blue solid;
+  box-shadow: 6px 6px 6px black;
+}
+a:hover
+{
+  font-weight: bold;
+}
+/************************************************************HTML*******************************************************************/
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+      <link rel="stylesheet" href="style.css" />
+        <title>Les cupcakes</title>
+    </head>
+
+    <body>
+      <h1 class = "Titre">Vive les cupcakes</h1>
+      
+      <p>J'ai découvert les cupcakes lors d'un voyage à <a href="https://fr.wikipedia.org/wiki/New_York">New York</a>... et depuis c'est une véritable passion. Sur mon site, vous saurez <strong>tout</strong> sur les cupcakes !</p>
+      
+      <p>Un cupcake ? C'est ça :</p>
+      
+      <figure>
+        <img src="cupcake.jpg" alt="Cupcake" />
+        <figcaption>Un cupcake</figcaption>
+      </figure>
+      
+      <p>Délicieux non ? Sur mon site, je vous présenterai :</p>
+      
+      <ul>
+        <li>Les différentes variétés de cupcakes</li>
+        <li>Leur histoire</li>
+        <li>Leurs recettes</li>
+      </ul>
+      
+    </body>
+</html>
